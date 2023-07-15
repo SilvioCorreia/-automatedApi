@@ -1,0 +1,22 @@
+{
+    "id": 20230715,
+    "category": {
+      "id": 200,
+      "name": "cat"
+    },
+    "name": "Bananinha",
+    "photoUrls": [
+      ""
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "Vacinado"
+      },
+      {
+        "id": 4,
+        "name": "Castrated"
+      }
+    ],
+    "status": "Disponível"
+  }
